@@ -280,25 +280,30 @@ Therefore, there is a need for an automated system that can analyze historical s
 
 <h2>SALES DISTRIBUTION</h2>
 
-<img src="images/sales_distribution.png">
+<img width="879" height="479" alt="image" src="https://github.com/user-attachments/assets/373258a1-cd06-4123-83b7-36ca4b19c418" />
+
 
 <hr>
 
 <h2>OUTLIER DETECTION</h2>
 
-<img src="images/sales_outliers.png">
+<img width="794" height="479" alt="image" src="https://github.com/user-attachments/assets/28408681-0174-41d3-b698-055f9fe9116b" />
+
 
 <hr>
 
 <h2>CORRELATION HEATMAP</h2>
 
-<img src="images/correlation_heatmap.png">
+<img width="706" height="455" alt="image" src="https://github.com/user-attachments/assets/4fae6e02-ab9d-4e34-a4b3-19f6be997e16" />
+
 
 <hr>
 
 <h2>SALES FORECAST TREND</h2>
 
-<img src="images/sales_forecast.png">
+
+<img width="1189" height="479" alt="image" src="https://github.com/user-attachments/assets/1995bc7b-dabb-4f96-ab13-8753cffa6d48" />
+
 
 <hr>
 
