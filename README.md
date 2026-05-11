@@ -240,19 +240,20 @@ Therefore, there is a need for an automated system that can analyze historical s
 
 <h2>DAILY SALES TREND</h2>
 
-<img width="892" height="358" alt="image" src="https://github.com/user-attachments/assets/f689b6d3-daa8-414d-9d4a-308f2de04d27" />
+<img width="893" height="362" alt="image" src="https://github.com/user-attachments/assets/d2663dd6-7e9a-44c0-854a-644a55f97164" />
 
 <hr>
 
 <h2>MONTHLY SALES ANALYSIS</h2>
 
-<img src="images/monthly_sales_analysis.png">
+<img width="663" height="362" alt="image" src="https://github.com/user-attachments/assets/9fd3d064-6cde-4767-bf25-055477549c70" />
+
 
 <hr>
 
 <h2>YEARLY SALES ANALYSIS</h2>
 
-<img src="images/yearly_sales_analysis.png">
+<img width="663" height="375" alt="image" src="https://github.com/user-attachments/assets/141f9ca4-59db-47d9-b77b-5040cbbd7247" />
 
 <hr>
 
