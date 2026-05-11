@@ -259,19 +259,22 @@ Therefore, there is a need for an automated system that can analyze historical s
 
 <h2>DAY WISE SALES ANALYSIS</h2>
 
-<img src="images/daywise_sales_analysis.png">
+<img width="667" height="410" alt="image" src="https://github.com/user-attachments/assets/97c86c2e-48ff-496e-976a-f488dbc136d1" />
+
 
 <hr>
 
 <h2>CATEGORY WISE SALES ANALYSIS</h2>
 
-<img src="images/category_sales.png">
+<img width="783" height="431" alt="image" src="https://github.com/user-attachments/assets/091fce05-4e61-410f-85fe-2535326dc331" />
+
 
 <hr>
 
 <h2>TOP 10 BEST-SELLING PRODUCTS</h2>
 
-<img src="images/top_products.png">
+<img width="1035" height="1067" alt="image" src="https://github.com/user-attachments/assets/652f4410-ff9c-4c96-b9ca-7c14bc2f62ad" />
+
 
 <hr>
 
