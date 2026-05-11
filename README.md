@@ -377,12 +377,3 @@ The project helps businesses improve forecasting accuracy, inventory management,
 
 <hr>
 
-<h2>AUTHOR</h2>
-
-<p>
-<b>Yuvasri S</b>
-</p>
-
-<hr>
-
-</b>
